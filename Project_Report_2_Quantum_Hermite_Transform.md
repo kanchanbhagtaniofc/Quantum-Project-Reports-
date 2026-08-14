@@ -4,7 +4,7 @@
 Independent Verification and Extension of the Quantum Hermite Transform: Fast-Forwarding, Sampling, and Cryptographic Applications
 
 ## Project Type
-Independent, self-initiated technical research and development project (not an officially sponsored organizational deliverable)
+Independent, self-initiated technical research and development project. 
 
 ## Author
 Kanchan Bhagtani
