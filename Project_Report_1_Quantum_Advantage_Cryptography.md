@@ -4,7 +4,7 @@
 Quantum Advantage Against Cryptographic Hardness Assumptions: A Survey, Cross-Verification Framework, and Extension Roadmap
 
 ## Project Type
-Independent, self-initiated technical research and development project (not an officially sponsored organizational deliverable)
+Independent, self-initiated technical research and development project
 
 ## Author
 Kanchan Bhagtani
